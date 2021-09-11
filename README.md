@@ -1,5 +1,5 @@
 # JAPNCG
-Just Another Python Nitro Code Generator - a simple nitro code generator built in python without any dependencies. 
+Just Another Python (Discord) Nitro Code Generator - a simple nitro code generator built in python without any dependencies. 
 
 Tested in Python 3.9.7
 
