@@ -7,4 +7,4 @@ Tested in Python 3.9.7
 ## Usage
 The script asks you to input the amount of codes you want to generate and then writes them to a file called codes.txt.
 ## License
-This project is (un)licensed under [**The Unlicense**](https://unlicense.org/) which dedicates the contents of this repository to the public domain.
+This project is licensed under the [European Union Public License, version 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12).
