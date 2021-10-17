@@ -1,7 +1,7 @@
 # JAPNCG
 Just Another Python (Discord) Nitro Code Generator - a simple nitro code generator built in python without any external dependencies. 
 
-Tested in Python 3.9.7
+Last tested in Python 3.10.0.
 
 **Disclaimer:** The chance to generate a valid code using random characters is very slim, so don't expect to actually get a working code.
 ## Usage
