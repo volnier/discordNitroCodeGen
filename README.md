@@ -1,5 +1,5 @@
 # discordNitroCodeGen
-Just Another Python (Discord) Nitro Code Generator - a simple nitro code generator built in python without any external dependencies. 
+discordNitroCodeGen - a simple nitro code generator built in python without any external dependencies. 
 
 Last tested in Python 3.10.0.
 
